@@ -1,3 +1,12 @@
+# What's New for this fork?
+espresso pointers for super client verification (spv)
+
+files:
+```angular2html
+    ./src/util/espresso_core.cpp
+    ./src/util/espresso_core.h
+```
+
 Bitcoin Core integration/staging tree
 =====================================
 
